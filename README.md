@@ -6,7 +6,7 @@ The goal of this project is to practice real-world data cleaning, visualization,
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project performs exploratory data analysis on ultramarathon race data to uncover trends such as:
 
@@ -19,7 +19,7 @@ The analysis emphasizes reproducible workflows, data visualization, and statisti
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python  
 - Jupyter Notebook  
@@ -30,7 +30,7 @@ The analysis emphasizes reproducible workflows, data visualization, and statisti
 
 ---
 
-## 📊 Key Analysis Areas
+## Key Analysis Areas
 
 - Data cleaning and preprocessing  
 - Handling missing and inconsistent values  
@@ -40,7 +40,7 @@ The analysis emphasizes reproducible workflows, data visualization, and statisti
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -65,7 +65,7 @@ Open the notebook file and run cells sequentially.
 
 ---
 
-## 🔍 Goals of the Project
+## Goals of the Project
 
 - Strengthen data cleaning skills  
 - Practice exploratory analysis techniques  
@@ -74,6 +74,6 @@ Open the notebook file and run cells sequentially.
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 This is a personal learning project, but feedback and suggestions are welcome.
